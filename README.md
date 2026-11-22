@@ -230,16 +230,7 @@ npm install
 cp .env.example .env.local       # Configure your API keys (Supabase, Gemini, ElevenLabs)
 npm run dev
 ```
-Open **[http://localhost:5173](http://localhost:5173)** in Google Chrome or Microsoft Edge (Web Bluetooth supported).
 
-### 3. Production Cloud Deployment (DigitalOcean / Docker)
-Deploy using Docker Compose with a single command:
-```bash
-docker compose up -d --build
-```
-For DigitalOcean App Platform zero-downtime deployment, see [DEPLOY_DIGITALOCEAN.md](DEPLOY_DIGITALOCEAN.md).
-
----
 
 ## ⚖️ Research & Screening Disclaimer
 
