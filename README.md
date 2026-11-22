@@ -1,6 +1,5 @@
 # 🩺 ANEBILIN — Non-Invasive Biomarker & Multimodal ECG Screening System
 
-[![DigitalOcean App Platform](https://img.shields.io/badge/Deploy-DigitalOcean-blue?logo=digitalocean)](DEPLOY_DIGITALOCEAN.md)
 [![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?logo=fastapi)](dashboard/ml_server)
 [![React 19](https://img.shields.io/badge/Frontend-React%2019-61DAFB?logo=react)](dashboard)
 [![Google Gemini / Gemma](https://img.shields.io/badge/Vision%20AI-Gemma%20%2F%20Gemini%203.8-4285F4?logo=google)](dashboard/src/utils/gemmaClient.ts)
