@@ -1,7 +1,6 @@
 video link:- https://www.youtube.com/watch?v=iwbNeCkA8oM
 # 🩺 ANEBILIN — Non-Invasive Biomarker & Multimodal ECG Screening System
 
-[![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?logo=fastapi)](dashboard/ml_server)
 [![React 19](https://img.shields.io/badge/Frontend-React%2019-61DAFB?logo=react)](dashboard)
 [![Google Gemini / Gemma](https://img.shields.io/badge/Vision%20AI-Gemma%20%2F%20Gemini%203.8-4285F4?logo=google)](dashboard/src/utils/gemmaClient.ts)
 [![ElevenLabs TTS](https://img.shields.io/badge/Voice%20AI-ElevenLabs%20TTS-black)](dashboard/src/utils/elevenLabsClient.ts)
